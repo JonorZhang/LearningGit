@@ -68,5 +68,5 @@ Git支持多种协议，包括https，但通过ssh支持的原生git协议速度
 
 解决冲突就是把Git合并失败的文件手动编辑为我们希望的内容，再提交。
 
-用git log --graph命令可以看到分支合并图。
+用git log --graph命令可以看到分支合并图。haha
 
